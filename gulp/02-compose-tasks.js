@@ -28,7 +28,6 @@ const task3 = done => {
  */
 exports.series1 = series(task1, task2, task3)
 
-
 /**
  * paralle 并行任务
  */
