@@ -17,3 +17,5 @@
 - yarn gulp stream
 
 #### gulp核心工作原理
+- yarn gulp build_process
+- yarn gulp files_api
